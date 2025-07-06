@@ -1,9 +1,37 @@
-# Welcome to FRC Team 6738's GitHub
+# 🤖⚔️ FRC Team 6738 - Excalibur
 
-We build open-source tools, robot code, and scouting systems for the FIRST Robotics Competition.
+Welcome to the official GitHub organization of **FIRST Robotics Competition Team 6738**, Excalibur!
 
-- 🦾 Robot code: Java with WPILib
-- 📊 Scouting apps and dashboards
-- 🧰 Utilities and team tools
+We design, build, and program competitive robots to take on each year's FRC challenge. This organization hosts all our software projects — from robot code to scouting systems, autonomous path planning, dashboards, and utility tools.
 
-Learn more: [excaliburfrc.com](https://excaliburfrc.com)
+---
+
+## 🛠️ What You'll Find Here
+
+- **`robot-code/`** – Command-based robot code using Java + WPILib  
+- **`scouting-app/`** – Web and mobile apps for scouting and match analytics  
+- **`dashboard/`** – Real-time driver station dashboards and controls  
+- **`tools/`** – Internal utilities, scripts, and fun side projects
+
+---
+
+## 📦 Technologies We Use
+
+- Java / WPILib / PathPlanner
+- React / Vite / Firebase
+- Python / OpenCV (Vision Systems)
+
+---
+
+## 🌐 Learn More
+
+- [FIRST Robotics Competition](https://www.firstinspires.org/robotics/frc)
+- [The Blue Alliance](https://www.thebluealliance.com/team/1234)
+- [Our Website](https://excaliburfrc.com) <!-- Update this if you have a real site -->
+
+---
+
+> Built by students. Powered by curiosity. Focused on impact.
+
+---
+
